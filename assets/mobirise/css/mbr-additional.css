@@ -770,6 +770,7 @@ section.lazy-placeholder:after {
 .cid-s5h8jB8PtO {
   padding-top: 90px;
   padding-bottom: 90px;
+  background: linear-gradient(45deg, #0f7699, #ff7f9f);
 }
 @media (min-width: 992px) {
   .cid-s5h8jB8PtO .mbr-figure {
