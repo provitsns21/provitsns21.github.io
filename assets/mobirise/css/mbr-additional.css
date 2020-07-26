@@ -715,7 +715,7 @@ section.lazy-placeholder:after {
 }
 .cid-s4iHmS1REg H1 {
   text-align: center;
-  color: #f7ed4a;
+  color: #df1a38;
 }
 .cid-s4iHmS1REg .mbr-text,
 .cid-s4iHmS1REg .mbr-section-btn {
@@ -731,6 +731,7 @@ section.lazy-placeholder:after {
 }
 .cid-s5gRrSxxUs H1 {
   text-align: center;
+  color: #9f0054;
 }
 .cid-s5gRrSxxUs .mbr-text,
 .cid-s5gRrSxxUs .mbr-section-btn {
@@ -748,9 +749,11 @@ section.lazy-placeholder:after {
 .cid-s5gWwNy3P4 .mbr-text,
 .cid-s5gWwNy3P4 .mbr-section-btn {
   text-align: center;
+  color: #df1a64;
 }
 .cid-s5gWwNy3P4 H1 {
   text-align: center;
+  color: #035e0d;
 }
 .cid-s5gYapmR8J {
   padding-top: 90px;
@@ -762,10 +765,12 @@ section.lazy-placeholder:after {
 }
 .cid-s5gYapmR8J H1 {
   text-align: center;
+  color: #314070;
 }
 .cid-s5gYapmR8J .mbr-text,
 .cid-s5gYapmR8J .mbr-section-btn {
   text-align: center;
+  color: #035e0d;
 }
 .cid-s5h8jB8PtO {
   padding-top: 90px;
@@ -788,7 +793,7 @@ section.lazy-placeholder:after {
 }
 .cid-s5h8jB8PtO .mbr-text,
 .cid-s5h8jB8PtO .mbr-section-btn {
-  color: #efefef;
+  color: #035e0d;
 }
 .cid-s5NRNQV8JN {
   padding-top: 90px;
@@ -883,7 +888,7 @@ section.lazy-placeholder:after {
 }
 .cid-s5OgFRVd8X .mbr-text,
 .cid-s5OgFRVd8X .mbr-section-btn {
-  color: #767676;
+  color: #232323;
 }
 .cid-s5OlJlinrL {
   padding-top: 90px;
@@ -895,18 +900,21 @@ section.lazy-placeholder:after {
 }
 .cid-s5OlJlinrL .mbr-text,
 .cid-s5OlJlinrL .mbr-section-btn {
-  color: #ffffff;
+  color: #9f0054;
+}
+.cid-s5OlJlinrL H1 {
+  color: #035e0d;
 }
 .cid-s5Qa4odDbS {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #c1c1c1;
 }
 .cid-s5Qa4odDbS div.b {
   padding-top: 2rem;
 }
 .cid-s5Qa4odDbS .mbr-text {
-  color: #767676;
+  color: #df1a64;
   margin: 0;
   padding-top: 1.5rem;
 }
@@ -950,4 +958,10 @@ section.lazy-placeholder:after {
   .cid-s5Qa4odDbS div.left-block.wrapper {
     padding-bottom: 3rem;
   }
+}
+.cid-s5Qa4odDbS H2 {
+  color: #1a69df;
+}
+.cid-s5Qa4odDbS H5 {
+  color: #035e0d;
 }
